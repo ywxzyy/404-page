@@ -153,6 +153,10 @@ img {
 .home__data {
   text-align: center;
 }
+.home___data {
+  text-align: center;
+  animation: shadow 1.8s infinite alternate;
+}
 
 .home__title {
   font-size: var(--biggest-font-size);

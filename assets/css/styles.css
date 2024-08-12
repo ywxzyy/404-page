@@ -197,9 +197,13 @@ img {
   justify-content: center;
   column-gap: .5rem;
   font-size: var(--smaller-font-size);
-  color: black !important;
+  color: var(--text-color);
   align-self: flex-end;
 }
+.home__footer a {
+    color: black; /* Mengatur warna teks link dalam footer menjadi hitam */
+}
+
 
 /* Animate ghost */
 @keyframes floaty {

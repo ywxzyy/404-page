@@ -197,7 +197,7 @@ img {
   justify-content: center;
   column-gap: .5rem;
   font-size: var(--smaller-font-size);
-  color: var(--text-color);
+  color: black !important;
   align-self: flex-end;
 }
 

@@ -35,7 +35,7 @@ const sr = ScrollReveal({
     duration: 3000,
 })
 
-sr.reveal(`.home__data`, {origin: 'top', delay: 400})
+sr.reveal(`.home__data`, {origin: 'top', delay: 500})
 sr.reveal(`.home__img`, {origin: 'bottom', delay: 610})
 sr.reveal(`.home___data`, {origin: 'bottom', delay: 640})
-sr.reveal(`.home__footer`, {origin: 'bottom', delay: 530})
+sr.reveal(`.home__footer`, {origin: 'bottom', delay: 600})

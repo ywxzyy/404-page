@@ -181,6 +181,13 @@ img {
 .home__img {
   justify-self: center;
 }
+.home___img img {
+  width: 230px;
+}
+
+.home___img {
+  justify-self: center;
+}
 
 .home__shadow {
   width: 130px;
